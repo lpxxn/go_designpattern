@@ -9,4 +9,8 @@ func TestState(t *testing.T) {
 	c.DoAction()
 	c.DoAction()
 	c.DoAction()
+
+	c.DoAction()
+	c.DoAction()
+	c.DoAction()
 }
